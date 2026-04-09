@@ -278,7 +278,6 @@ function App() {
           No app. No internet. No English.
         </p>
         <div style={{marginBottom:'40px'}}>
-          <div style={{fontFamily:"'Space Mono',monospace",fontSize:'11px',letterSpacing:'3px',color:'rgba(255,248,240,0.3)',marginBottom:'20px',textTransform:'uppercase'}}>YC One-Liner</div>
           <div style={{fontSize:'20px',fontWeight:700,color:'var(--cream)',borderLeft:'3px solid var(--saffron)',paddingLeft:'24px',textAlign:'left',maxWidth:'700px',margin:'0 auto'}}>
             "We're building the AI OS for India's 600 million feature phone users — accessible via a toll-free phone call, in 12 languages, with zero smartphone or internet required."
           </div>
