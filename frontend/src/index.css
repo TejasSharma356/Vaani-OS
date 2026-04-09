@@ -340,8 +340,9 @@ nav {
 /* Floating USSD bubble */
 .ussd-bubble {
   position: absolute;
-  right: -131px;
+  left: calc(100% + 12px);
   top: 44px;
+  z-index: 10;
   background: var(--saffron);
   color: var(--ink);
   font-family: 'Space Mono', monospace;
