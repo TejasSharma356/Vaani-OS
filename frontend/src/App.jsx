@@ -52,7 +52,6 @@ function App() {
           </p>
           <div className="hero-cta">
             <a href="#demo" className="btn-primary">Try the Demo</a>
-            <a href="#pitch" className="btn-ghost">YC Pitch Deck</a>
           </div>
         </div>
 
